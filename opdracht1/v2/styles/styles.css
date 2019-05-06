@@ -1,0 +1,71 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border-bottom: 1px solid #A5C3C3;
+}
+
+ul {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    position: relative;
+}
+
+ul p {
+    font-size: 1.5em;
+    margin: 0.5em;
+}
+
+nav {
+    position: relative;
+}
+
+#films {
+    text-decoration: none;
+    color: black;
+}
+
+li:last-of-type {
+    right: 1em;
+    position: absolute;
+}
+
+li img {
+    margin-top: .4em;
+}
+
+article {
+    position: relative;
+}
+
+.download {
+    width: 2.5em;
+    height: auto;
+    position: absolute;
+    right: 1em;
+}
+
+.poster {
+    height: 7em;
+    width: 5em;
+    float: left;
+    margin-right: .5em;
+}
+
+.grijs {
+    background-color: #F4F4F4;
+    border-color: aqua;
+}
+
+button {
+    background-color: transparent;
+    border: none;
+}
+
+.download.active {
+    background-image: url(../img/hart%20rood-01.png);
+    background-size: 2.5em;
+    background-repeat: no-repeat;
+}
