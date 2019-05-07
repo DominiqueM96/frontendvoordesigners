@@ -1,11 +1,8 @@
 # frontend voor designers - opdracht 1
-Hier beschrijf je de opdracht, wat je hebt gemaakt en hoe je je ontwerp door verschillende versies te testen hebt verbeterd. Bij iedere test voeg je een link toe naar de betreffende demo.
 
-Bijvoorbeel bij de demo van versie in kun je zo een link maken, zodat iedereen de demo zelf kan uitproberen:
+De opdracht:
+Als ik een lijst films heb gevonden, wil ik leuke films kunnen opslaan om ze thuis te ....
 
-[Demo 1 voor opdracht 1](https://koopreynders.github.io/frontendvoordesigners/opdracht1/v1/)
+Dit is de laatste versie na verschillende verbeteringen. Ik heb nu om en om een achtergrond kleur toegoevoegd zodat de lijst makkelijker leesbaar is. Ook heb ik de counter in het hartje rechtsboven gezet voor goede feedback. 
 
-
-Je kan ook een link plaatsen naar de bron code van de demo:
-
-[Code demo 1 voor opdracht 1](https://github.com/KoopReynders/frontendvoordesigners/blob/master/opdracht1/v1/)
+Link naar de demo:
