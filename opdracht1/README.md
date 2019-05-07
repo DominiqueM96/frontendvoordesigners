@@ -9,7 +9,7 @@ v2: Ik heb een counter gemaakt voor feedback voor de gebruiker. Ook heb ik het f
 v3: Ik heb nu om en om een achtergrond kleur toegoevoegd zodat de lijst makkelijker leesbaar is. Ook heb ik de counter in het hartje rechtsboven gezet voor goede feedback. 
 v4: Opgeslagen pagina toegevoegd. Wanneer je op het hartje rechtsboven klikt kom je op de pagina met al je opgeslagen films.
 
-Link naar de demo: https://dominiquem96.github.io/frontendvoordesigners/opdracht1/v3/
+Link naar de demo: https://dominiquem96.github.io/frontendvoordesigners/opdracht1/v4/
 
 Principles of User Interface Design
 
