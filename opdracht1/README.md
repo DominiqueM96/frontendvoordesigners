@@ -6,10 +6,13 @@ Als ik een lijst films heb gevonden, wil ik leuke films kunnen opslaan om ze thu
 Iteraties:
 v1: Basis HTML met een micro interactie: hartje vult wanneer je er op klikt. 
 https://dominiquem96.github.io/frontendvoordesigners/opdracht1/v1/
+
 v2: Ik heb een counter gemaakt voor feedback voor de gebruiker. Ook heb ik het film poster bij elke titel toegevoegd.
 https://dominiquem96.github.io/frontendvoordesigners/opdracht1/v2/
+
 v3: Ik heb nu om en om een achtergrond kleur toegoevoegd zodat de lijst makkelijker leesbaar is. Ook heb ik de counter in het hartje rechtsboven gezet voor goede feedback. 
 https://dominiquem96.github.io/frontendvoordesigners/opdracht1/v3/
+
 v4: Opgeslagen pagina toegevoegd. Wanneer je op het hartje rechtsboven klikt kom je op de pagina met al je opgeslagen films.
 https://dominiquem96.github.io/frontendvoordesigners/opdracht1/v4/
 
