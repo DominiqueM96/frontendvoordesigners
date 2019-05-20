@@ -1,0 +1,44 @@
+#profiel {
+    width: 8em;
+    height: auto;
+}
+
+#intro {
+    max-width: 8em;
+}
+
+.preview {
+    width: 10em;
+}
+
+section {
+    margin-left: 9em;
+    /*    display: grid;*/
+}
+
+/*
+#section1 {
+    opacity: 0;
+}
+
+#section1.active {
+    opacity: 1;
+}
+*/
+
+
+#section2 {
+    background-color: red;
+}
+
+#section3 {
+    background-color: antiquewhite;
+}
+
+#section4 {
+    background-color: lightpink
+}
+
+#section5 {
+    background-color: coral;
+}
