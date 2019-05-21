@@ -1,0 +1,72 @@
+body {
+    font-family: sans-serif;
+}
+
+section p {
+    font-size: 1.5em;
+    margin-bottom: 0;
+    font-weight: 500;
+}
+
+main {
+    margin-top: -26.5em;
+    margin-left: 3em;
+    max-width: 30em;
+}
+
+#profiel {
+    width: 8em;
+    height: auto;
+}
+
+#intro {
+    max-width: 8em;
+}
+
+.preview {
+    width: 10em;
+}
+
+section {
+    margin-left: 9em;
+}
+
+#section1 {
+    opacity: 0;
+}
+
+#section2 {
+    opacity: 0;
+}
+
+#section3 {
+    opacity: 0;
+}
+
+#section4 {
+    opacity: 0;
+}
+
+#section5 {
+    opacity: 0;
+}
+
+#section1.active {
+    opacity: 1;
+}
+
+#section2.active {
+    opacity: 1;
+}
+
+#section3.active {
+    opacity: 1;
+}
+
+#section4.active {
+    opacity: 1;
+}
+
+#section5.active {
+    opacity: 1;
+}
